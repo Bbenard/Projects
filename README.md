@@ -12,11 +12,11 @@
 
 *Contributors*none
 #personal Projects 2
-*project Name* web design 
+
+*project Name* IT design Agency
 
 *link to theripo*https://github.com/Bbenard/design
 
-*link to theripo*https://github.com/Bbenard/personal
 
 *About the project*Its IT field website
 
