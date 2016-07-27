@@ -1,32 +1,59 @@
 #personal Projects
 
-*project Name* Personal website
+**project Name* My Portfolio
 
-*link to theripo*https://github.com/Bbenard/personal
+**link to the ripo**https://github.com/Bbenard/personal
 
-*About the project*Its all about Me
+**About the project**It is all about Me and what i have done
 
-*Features* Its aone pager with the following links about,portfolio,contact
+*Features* Its a one pager with the following links
 
-*Tools*Html,css js, foundation 
+About
+
+Portfolio
+
+Contact
+
+*Tools Applied* 
+Html
+
+css 
+
+Java scripts
+
+Foundation  framework
 
 *Contributors*none
-#personal Projects 2
+
+#personal Projects 1
 
 *project Name* IT design Agency
 
 *link to theripo*https://github.com/Bbenard/design
 
-
 *About the project*Its IT field website
 
-*Features* Its aone pager with the following links home  about,portfolio,contact blog
+*Features* Its has the the following links:-
 
-*Tools*Html,css js, foundation 
+Home 
+
+About
+
+Portfolio
+
+
+*Tools Applied*
+Html
+
+css 
+
+javascript
+
+Foundation framework
 
 *Contributors*none
 
-*About the project*Its all about Me
+*About the project*It is about IT company
 
 *Features* Its aone pager with the following links about,portfolio,contact
 
