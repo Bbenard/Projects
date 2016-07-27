@@ -2,7 +2,7 @@
 
 **project Name:** My Portfolio
 
-**link to the ripo:**https://github.com/Bbenard/personal
+**Link to the Ripository:** https://github.com/Bbenard/personal
 
 **About the project:**It is all about Me and what i have done
 
@@ -15,6 +15,7 @@ Portfolio
 Contact
 
 **Tools Applied**
+
 Html
 
 css 
@@ -23,13 +24,13 @@ Java scripts
 
 Foundation  framework
 
-**Contributors:**none
+**Contributors:** none
 
 #personal Projects 1
 
-**project Name:** IT design Agency
+**Project Name:** IT design Agency
 
-**link to theripo:**https://github.com/Bbenard/design
+**Link to the Repository:**https://github.com/Bbenard/design
 
 **About the project:**Its IT field website
 
@@ -43,6 +44,7 @@ Portfolio
 
 
 **Tools Applied:**
+
 Html
 
 css 
@@ -51,11 +53,12 @@ javascript
 
 Foundation framework
 
-**Contributors:**none
+**Contributors:** None
 
 **About the project:**It is about IT company
 
 *Features* Its has the following links:-
+
 About
 
 Portfolio
@@ -64,6 +67,6 @@ Contact
 
 Members
 
-*Tools*Html,css js, foundation 
+**Tools:**Html,css js, foundation 
 
-*Contributors*none
+**Contributors:**none
