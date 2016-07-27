@@ -18,8 +18,6 @@ Foundation framework
 
 **Contributors:** None
 
-**About the project:**It is about IT company
-
 **Features:** Its has the following links:-
 
 About
