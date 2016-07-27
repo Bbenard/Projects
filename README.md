@@ -2,7 +2,7 @@
 #Project Name: ICT WORLD
 
 
-** Repository Link :**https://github.com/Bbenard/design
+**Repository Link :**https://github.com/Bbenard/design
 
 **About the project:**It is an  ICT company  website
 
