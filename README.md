@@ -1,13 +1,11 @@
 
-#ICT WOLRD
+#Project Name: ICT WORLD
 
-**Project Name:** IT design Agency
+** Repository Link :**https://github.com/Bbenard/design
 
-**Link to the Repository:**https://github.com/Bbenard/design
+**About the project:**It is an  ICT company  website
 
-**About the project:**Its IT field website
-
-**Features:** Its has the the following links:-
+**Project Features:** Its has the the following links:-
 
 Home 
 
