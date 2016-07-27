@@ -15,8 +15,6 @@ javascript
 
 Foundation framework
 
-**Contributors:** None
-
 **Features:** Its has the following links:-
 
 About
@@ -26,14 +24,5 @@ Portfolio
 Contact
 
 Members
-
-**Tools:**
-Html
-
-css 
-
-Javascript
-
-Foundation  Framework
 
 **Contributors:**https://github.com/Bbenard
