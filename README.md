@@ -57,7 +57,7 @@ Foundation framework
 
 **About the project:**It is about IT company
 
-*Features* Its has the following links:-
+**Features:** Its has the following links:-
 
 About
 
@@ -67,6 +67,13 @@ Contact
 
 Members
 
-**Tools:**Html,css js, foundation 
+**Tools:**
+Html
+
+css 
+
+Javascript
+
+Foundation  Framework
 
 **Contributors:**none
