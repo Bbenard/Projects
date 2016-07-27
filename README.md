@@ -1,32 +1,5 @@
-#personal Projects
 
-**project Name:** My Portfolio
-
-**Link to the Ripository:** https://github.com/Bbenard/personal
-
-**About the project:**It is all about Me and what i have done
-
-**Features:** Its a one pager with the following links
-
-About
-
-Portfolio
-
-Contact
-
-**Tools Applied**
-
-Html
-
-css 
-
-Java scripts
-
-Foundation  framework
-
-**Contributors:** none
-
-#personal Projects 1
+#ICT WOLRD
 
 **Project Name:** IT design Agency
 
