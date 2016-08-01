@@ -47,7 +47,7 @@ Foundation framework
 **Features:** Its has the following links:-
 Home
 
-About
+About Us
 
 Services
 
