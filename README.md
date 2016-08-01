@@ -1,5 +1,5 @@
 
-#Prime TELEcommunication
+#ICT WORLD  
 
 **Repository Link :**https://github.com/Bbenard/design
 
@@ -28,7 +28,7 @@ Members
 **Contributors:**https://github.com/Bbenard
 
 
-#Tele
+#PRIME TELECOM
 
 **Repository Link :**https://github.com/Bbenard/Prime
 
